@@ -1,0 +1,14 @@
+C:\Users\OxiWan\source\repos\AutoClearText\bin\Debug\net8.0\AutoClearText.exe
+C:\Users\OxiWan\source\repos\AutoClearText\bin\Debug\net8.0\AutoClearText.deps.json
+C:\Users\OxiWan\source\repos\AutoClearText\bin\Debug\net8.0\AutoClearText.runtimeconfig.json
+C:\Users\OxiWan\source\repos\AutoClearText\bin\Debug\net8.0\AutoClearText.dll
+C:\Users\OxiWan\source\repos\AutoClearText\bin\Debug\net8.0\AutoClearText.pdb
+C:\Users\OxiWan\source\repos\AutoClearText\obj\Debug\net8.0\AutoClearText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OxiWan\source\repos\AutoClearText\obj\Debug\net8.0\AutoClearText.AssemblyInfoInputs.cache
+C:\Users\OxiWan\source\repos\AutoClearText\obj\Debug\net8.0\AutoClearText.AssemblyInfo.cs
+C:\Users\OxiWan\source\repos\AutoClearText\obj\Debug\net8.0\AutoClearText.csproj.CoreCompileInputs.cache
+C:\Users\OxiWan\source\repos\AutoClearText\obj\Debug\net8.0\AutoClearText.dll
+C:\Users\OxiWan\source\repos\AutoClearText\obj\Debug\net8.0\refint\AutoClearText.dll
+C:\Users\OxiWan\source\repos\AutoClearText\obj\Debug\net8.0\AutoClearText.pdb
+C:\Users\OxiWan\source\repos\AutoClearText\obj\Debug\net8.0\AutoClearText.genruntimeconfig.cache
+C:\Users\OxiWan\source\repos\AutoClearText\obj\Debug\net8.0\ref\AutoClearText.dll

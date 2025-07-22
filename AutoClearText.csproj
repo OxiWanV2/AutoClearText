@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net6.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<AssemblyName>AutoClearText</AssemblyName>
+		<RootNamespace>AutoClearText</RootNamespace>
+		<Company>SandGame.fr</Company>
+		<Authors>OxiWan</Authors>
+		<Product>AutoClearText – Correcteur Français</Product>
+		<Description>Correcteur automatique français basé sur l’API LanguageTool ; déclenchement Ctrl+Entrée, aperçu optionnel.</Description>
+		<PackageProjectUrl>https://github.com/OxiWanV2/AutoClearText</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/OxiWanV2/AutoClearText</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageTags>LanguageTool;Correcteur;Français;Hotkey;Clipboard</PackageTags>
+
+		<Version>1.0.0</Version>
+		<AssemblyVersion>1.0.0.0</AssemblyVersion>
+		<FileVersion>1.0.0.0</FileVersion>
+		<InformationalVersion>1.0.0</InformationalVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+	</ItemGroup>
+
+</Project>
