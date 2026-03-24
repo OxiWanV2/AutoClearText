@@ -11,13 +11,16 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AutoClearText")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SandGame.fr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Correcteur automatique français basé sur l’API LanguageTool ; déclenchement Ctrl+" +
+    "Entrée, aperçu optionnel.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("AutoClearText")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+856cddf4f867ff7dd1f2cbf25fb0fdcb3b1d34b2")]
+[assembly: System.Reflection.AssemblyProductAttribute("AutoClearText – Correcteur Français")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoClearText")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/OxiWanV2/AutoClearText")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 

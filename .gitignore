@@ -1,0 +1,8 @@
+.vs/
+bin/
+obj/
+*.user
+LanguageTool-6.6/
+Models/
+Resources/
+Dictionaries/

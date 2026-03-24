@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Correcteur automatique français basé sur l’API LanguageTool ; déclenchement Ctrl+" +
     "Entrée, aperçu optionnel.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+856cddf4f867ff7dd1f2cbf25fb0fdcb3b1d34b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoClearText – Correcteur Français")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoClearText")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
